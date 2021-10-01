@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-# basicMattConfig.js
+// basicMattConfig.js
 
 export default { 
   name: "Matt McInnis",
