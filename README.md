@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+# basicMattConfig.js
+
+export default { 
+  name: "Matt McInnis",
+  pronouns: ["He", "Him"],
+  location: "Toronto, Canada",
+  currently: ["Full-Stack Developer", "Data Scientist", "Founder"],
+  previously: ["Math Faculty Member", "Data Scientist"],
+}
+```
