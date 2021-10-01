@@ -23,6 +23,6 @@ export default {
   pronouns: ["He", "Him"],
   location: "Toronto, Canada",
   currently: ["Full-Stack Developer", "Data Scientist", "Founder"],
-  previously: ["Math Faculty Member", "Data Scientist"],
+  previously: ["Math Educator", "Data Scientist"],
 }
 ```
